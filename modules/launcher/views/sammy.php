@@ -1,0 +1,23 @@
+
+<script src="<?php echo base_url(); ?>assets/controllers/mytime/mytime.js"></script>
+<script src="<?php echo base_url(); ?>assets/controllers/launcher/logout.js"></script>
+<script src="<?php echo base_url(); ?>assets/controllers/launcher/profile.js"></script>
+<script src="<?php echo base_url(); ?>assets/controllers/master_Data/admin.js"></script>
+<script src="<?php echo base_url(); ?>assets/controllers/master_Data/SysUpdate.js"></script>
+<script src="<?php echo base_url(); ?>assets/controllers/master_Data/merchandizer.js"></script>
+<script src="<?php echo base_url(); ?>assets/controllers/master_Data/report.js"></script>
+<script src="<?php echo base_url(); ?>assets/controllers/master_Data/summryReport.js"></script>
+<script src="<?php echo base_url(); ?>assets/controllers/master_Data/logsReport.js"></script>
+<script src="<?php echo base_url(); ?>assets/controllers/master_Data/agency.js"></script>
+<script src="<?php echo base_url(); ?>assets/controllers/master_Data/supervisor.js"></script>
+<script src="<?php echo base_url(); ?>assets/controllers/master_Data/schedule.js"></script>
+<script src="<?php echo base_url(); ?>assets/controllers/master_Data/store.js"></script>
+<script src="<?php echo base_url(); ?>assets/controllers/master_Data/period.js"></script>
+<script src="<?php echo base_url(); ?>assets/controllers/master_Data/Scheduled.js"></script>
+<script src="<?php echo base_url(); ?>assets/controllers/master_Data/groupSchedule.js"></script>
+<script src="<?php echo base_url(); ?>assets/controllers/master_Data/individualSchedule.js"></script>
+<script src="<?php echo base_url(); ?>assets/controllers/master_Data/restdaySchedule.js"></script>
+<script src="<?php echo base_url(); ?>assets/controllers/master_Data/holidaySchedule.js"></script>
+<script src="<?php echo base_url(); ?>assets/controllers/master_Data/timesheet.js"></script>
+<script src="<?php echo base_url(); ?>assets/controllers/logs/logs.js"></script>
+<script src="<?php echo base_url(); ?>assets/controllers/menu/menu.js"></script>
